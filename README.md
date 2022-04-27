@@ -1,13 +1,12 @@
 ### Hola!, soy Zarela! 👩🏻‍💻
 
-<ul>
- <li>🇵🇪 Peruvian living in USA</li>
- <li>🌱 Community Builder</li>
- <li>👾 Founder and Organizer at [SWFL Coders](https://www.meetup.com/swfl-coders/)</li>
- <li>🗣️ Organizer at [Tech Alliance of SWFL](https://www.meetup.com/SWFLTechAlliance/)</li>
- <li>🎸 Concert Enthusiast</li>
- <li>🖖 Trekkie</li>
-</ul>
+ - 🇵🇪 Peruvian living in USA
+ - 🌱 Community Builder</li>
+ - 👾 Founder and Organizer at [SWFL Coders](https://www.meetup.com/swfl-coders/)
+ - 🗣️ Organizer at [Tech Alliance of SWFL](https://www.meetup.com/SWFLTechAlliance/)
+ - 🎸 Concert Enthusiast
+ - 🖖 Trekkie
+
 
 ### Languages
 
