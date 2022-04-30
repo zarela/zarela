@@ -27,21 +27,14 @@
 
 ### Social Media
 
-[![website](./img/globe-light.svg)](https://zarelagraves.com#gh-light-mode-only)
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32px" alt="Twitter" title="Twitter"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" width="32px"/>
-
-
-[![website](./img/globe-dark.svg)](https://zarelagraves.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![twitter](./img/twitter-light.svg)](https://twitter.com/zg_stardust#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/zg_stardust#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/zarela#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/zarela#gh-dark-mode-only)
-
+<div style="display: flex; column-gap: 100px;">
+  <a href="https://twitter.com/ZG_Stardust">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="26px" alt="Twitter" title="Twitter"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/zarela/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26px" alt="LinkedIn" title="LinkedIn"/>
+  </a>
+</div>
 
 ### GitHub Stats
 
