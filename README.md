@@ -34,4 +34,4 @@
 ![Zarela's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarela&show_icons=true&theme=gotham&count_private=true)
 ![Zarela's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarela&hide=java&layout=compact&theme=gotham)
 
-![visitors](https://visitor-badge.laobi.icu/badge?zarela=page.id)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zarela.zarela)
