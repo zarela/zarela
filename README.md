@@ -1,4 +1,4 @@
-### Hola!, soy Zarela! 👩🏻‍💻
+### Hola, soy Zarela! 👩🏻‍💻
 
  - 🇵🇪 Peruvian living in USA
  - 🌱 Community Builder</li>
@@ -7,31 +7,50 @@
  - 🎸 Concert Enthusiast
  - 🖖 Trekkie
 
-
-### Languages
-
+### Tech & Tools
 <div style="display: flex; gap: 4px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26px" alt="React" title="React JS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26px" alt="javascript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="26px" alt="Ruby" title="Ruby" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//rails/rails-plain.svg" width="26px" alt="rails" title="Rails" />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" alt="Javascript" title="JavaScript" />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" alt="React" title="React JS"  />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30px" alt="Redux" title="Redux" />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" alt="NodeJS" title="NodeJS"/>
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30px" alt="NextJS" title="Next JS" />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="30px" alt="Ruby" title="Ruby"  />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//rails/rails-plain.svg" width="30px" alt="Rails" title="Rails"  />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30px" alt="Firebase" title="Firebase" />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30px" alt="Postgresql" title="Postgresql" />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30px" alt="MongoDB" title="MongoDB" />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" alt="html5" title="HTML5" />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" alt="css3" title="CSS3" />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px" alt="sass" title="Sass" />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" width="30px" alt="sketch" title="Sketch" />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" alt="git" title="Git"/>
+
 </div>
 
-### Social Media
-
-[![website](./img/globe-light.svg)](https://zarelagraves.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://zarelagraves.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![twitter](./img/twitter-light.svg)](https://twitter.com/zg_stardust#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/zg_stardust#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/zarela#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/zarela#gh-dark-mode-only)
-
+<br />
+<br />
 
 ### GitHub Stats
 
 ![Zarela's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarela&show_icons=true&theme=gotham&count_private=true)
-![Zarela's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarela&hide=java&layout=compact&theme=gotham)
+<br />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zarela.zarela&left_color=red&right_color=green&left_text=Visitors)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zarela.zarela&left_color=red&right_color=green&left_text=Visitors) -->
+### Connect with me:
+
+<div style="display: flex; column-gap: 100px;">
+  <a href="https://twitter.com/ZG_Stardust">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="26px" alt="Twitter" title="Twitter"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/zarela/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26px" alt="LinkedIn" title="LinkedIn"/>
+  </a>
+</div>
+
+###
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/zg_stardust?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fzg_stardust&screen_name=zg_stardust)
+
+<!-- Resources
+Icons: https://devicon.dev/
+https://visitor-badge.laobi.icu/#docs-->
