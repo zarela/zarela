@@ -33,7 +33,9 @@
 ### GitHub Stats
 
 ![Zarela's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarela&show_icons=true&theme=gotham&count_private=true)
+<br />
 
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zarela.zarela&left_color=red&right_color=green&left_text=Visitors) -->
 ### Connect with me:
 
 <div style="display: flex; column-gap: 100px;">
@@ -47,7 +49,7 @@
 
 ###
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zarela.zarela&left_color=red&right_color=green&left_text=Visitors)
+[![Twitter Follow](https://img.shields.io/twitter/follow/zg_stardust?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fzg_stardust&screen_name=zg_stardust)
 
 <!-- Resources
 Icons: https://devicon.dev/
