@@ -58,6 +58,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zarela.zarela&left_color=purple&right_color=green&left_text=Visitors)
 
-<!-- Resources
+<!-- RESOURCES
 Icons: https://devicon.dev/
-https://visitor-badge.laobi.icu/#docs-->
+Badges: https://visitor-badge.laobi.icu/#docs
+GitHub Stats Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
