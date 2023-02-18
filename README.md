@@ -39,6 +39,7 @@
   - ✨ SWFL Coders: [Landing Your Next Job: Career and Personal Branding](https://www.youtube.com/watch?v=4N9W5Fmoow4)
   - ✨ SWFL Coders: [Intro to Git & GitHub](https://www.youtube.com/watch?v=GeYWOhLD94I)
   - ✨ Florida Gulf Coast University: [Career as Software Engineer](https://docs.google.com/presentation/d/1xmBTAOzMkt-h99rKkx4HdiLn530rdKOQykGYYEBCauk/)
+  - ✨ Tech Alliance of SWFL: [Image Generation with MidJourney and DALL-E2](https://www.youtube.com/watch?v=zAd9lxTQdsk)
 </details>
 
 <details>
