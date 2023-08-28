@@ -40,7 +40,7 @@
   - ✨ SWFL Coders: [Intro to Git & GitHub](https://www.youtube.com/watch?v=GeYWOhLD94I)
   - ✨ Florida Gulf Coast University: [Career as Software Engineer](https://docs.google.com/presentation/d/1xmBTAOzMkt-h99rKkx4HdiLn530rdKOQykGYYEBCauk/)
   - ✨ Tech Alliance of SWFL: [Image Generation with MidJourney and DALL-E2](https://www.youtube.com/watch?v=zAd9lxTQdsk)
-  - ✨ Tech Alliance of SWFL: [Tech Trends 2023: A Look Ahead]([https://www.youtube.com/watch?v=zAd9lxTQdsk](https://youtu.be/JRbDklySVBE?feature=shared&t=1042))
+  - ✨ Tech Alliance of SWFL: [Tech Trends 2023: A Look Ahead](https://www.youtube.com/watch?v=zAd9lxTQdsk](https://youtu.be/JRbDklySVBE?feature=shared&t=1042)
 </details>
 
 <details>
