@@ -27,13 +27,11 @@
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" alt="git" title="Git"/>
 </div>
 <br />
-<br />
 
-### GitHub Stats
-  ![Zarela's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarela&show_icons=true&theme=ocean_dark&count_private=true)
+<!-- ### GitHub Stats
+  ![Zarela's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarela&show_icons=true&theme=ocean_dark&count_private=true) -->
 
-<details>
-  <summary><b>Presentations</b></summary>
+### Presentations
 
   - ✨ Tech Talks Perú: [Carrera como Marca Personal](https://www.youtube.com/watch?v=kqEysD6FMfs)
   - ✨ SWFL Coders: [Landing Your Next Job: Career and Personal Branding](https://www.youtube.com/watch?v=4N9W5Fmoow4)
@@ -41,7 +39,6 @@
   - ✨ Florida Gulf Coast University: [Career as Software Engineer](https://docs.google.com/presentation/d/1xmBTAOzMkt-h99rKkx4HdiLn530rdKOQykGYYEBCauk/)
   - ✨ Tech Alliance of SWFL: [Image Generation with MidJourney and DALL-E2](https://www.youtube.com/watch?v=zAd9lxTQdsk)
   - ✨ Tech Alliance of SWFL: [Tech Trends for 2023](https://youtu.be/JRbDklySVBE?feature=shared&t=1041)
-</details>
 
 <details>
   <summary><b>Connect</b></summary>
