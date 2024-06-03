@@ -1,11 +1,11 @@
 ### Hola, soy Zarela! 👩🏻‍💻
 
- - 🇵🇪 Peruvian living in USA
- - 🌱 Community Builder</li>
- - 👾 Founder and Organizer at [SWFL Coders](https://www.meetup.com/swfl-coders/)
- - 🗣️ Organizer at [Tech Alliance of SWFL](https://www.meetup.com/SWFLTechAlliance/)
- - 🎸 Concert Enthusiast
- - 🖖 Trekkie
+- 🇵🇪 Peruvian living in USA
+- 🌱 Community Builder</li>
+- 👾 Founder and Organizer at [SWFL Coders](https://www.meetup.com/swfl-coders/)
+- 🗣️ Organizer at [Tech Alliance of SWFL](https://www.meetup.com/SWFLTechAlliance/)
+- 🎸 Concert Enthusiast
+- 🖖 Trekkie
 
 ### Tech & Tools
 
@@ -33,12 +33,14 @@
 
 ### Presentations
 
-  - ✨ Tech Talks Perú: [Carrera y Marca Personal Para Desarrolladores](https://www.youtube.com/watch?v=kqEysD6FMfs)
-  - ✨ SWFL Coders: [Landing Your Next Job: Career and Personal Branding](https://www.youtube.com/watch?v=4N9W5Fmoow4)
-  - ✨ SWFL Coders: [Intro to Git & GitHub](https://www.youtube.com/watch?v=GeYWOhLD94I)
-  - ✨ Florida Gulf Coast University: [Career as Software Engineer](https://docs.google.com/presentation/d/1xmBTAOzMkt-h99rKkx4HdiLn530rdKOQykGYYEBCauk/)
-  - ✨ Tech Alliance of SWFL: [Image Generation with MidJourney and DALL-E2](https://www.youtube.com/watch?v=zAd9lxTQdsk)
-  - ✨ Tech Alliance of SWFL: [Tech Trends for 2023](https://youtu.be/JRbDklySVBE?feature=shared&t=1041)
+- ✨ Tech Talks Perú: [Carrera y Marca Personal Para Desarrolladores](https://www.youtube.com/watch?v=kqEysD6FMfs)
+- ✨ SWFL Coders: [Landing Your Next Job: Career and Personal Branding](https://www.youtube.com/watch?v=4N9W5Fmoow4)
+- ✨ SWFL Coders: [Intro to Git & GitHub](https://www.youtube.com/watch?v=GeYWOhLD94I)
+- ✨ SWFL Coders: [Basics of Web Development](https://youtu.be/VBzxOQI_Ze8?si=qEmfTE04bq8X-EYK&t=1263)
+- ✨ Florida Gulf Coast University: [Career as Software Engineer](https://docs.google.com/presentation/d/1xmBTAOzMkt-h99rKkx4HdiLn530rdKOQykGYYEBCauk/)
+- ✨ Tech Alliance of SWFL: [Image Generation with MidJourney and DALL-E2](https://www.youtube.com/watch?v=zAd9lxTQdsk)
+- ✨ Tech Alliance of SWFL: [Tech Trends for 2023](https://youtu.be/JRbDklySVBE?feature=shared&t=1041)
+- ✨ Universidad Continental (Huancayo - Perú)
 
 <details>
   <summary><b>Connect</b></summary>
