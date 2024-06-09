@@ -40,7 +40,7 @@
 - ✨ Florida Gulf Coast University: [Career as Software Engineer](https://docs.google.com/presentation/d/1xmBTAOzMkt-h99rKkx4HdiLn530rdKOQykGYYEBCauk/)
 - ✨ Tech Alliance of SWFL: [Image Generation with MidJourney and DALL-E2](https://www.youtube.com/watch?v=zAd9lxTQdsk)
 - ✨ Tech Alliance of SWFL: [Tech Trends for 2023](https://youtu.be/JRbDklySVBE?feature=shared&t=1041)
-- ✨ Universidad Continental Perú: [Introducción a Git & GitHu](https://youtu.be/Zr7_PCvU1Xw)
+- ✨ Universidad Continental Perú: [Introducción a Git & GitHub](https://youtu.be/Zr7_PCvU1Xw)
 
 <details>
   <summary><b>Connect</b></summary>
